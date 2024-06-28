@@ -1,0 +1,19 @@
+Recursive function:
+
+1.Recursion uses selection structure.
+2.Infinite recursion occurs if the recursion step does not reduce the problem in a manner that converges on some condition 
+(base case) and Infinite recursion can crash the system.
+3.Recursion terminates when a base case is recognized.
+4.Recursion is usually slower than iteration due to the overhead of maintaining the stack.
+5.Recursion uses more memory than iteration.
+6.Recursion makes the code smaller.
+
+Iteration function:
+
+1.Iteration uses repetition structure.
+2.An infinite loop occurs with iteration if the loop condition test never becomes false and
+  Infinite looping uses CPU cycles repeatedly.
+3.An iteration terminates when the loop condition fails.
+4.An iteration does not use the stack so it's faster than recursion.
+5.Iteration consumes less memory.
+6.Iteration makes the code longer.

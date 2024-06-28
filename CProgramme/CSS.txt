@@ -1,0 +1,62 @@
+Level 1 - 12:14
+  - Syntax - 15:47
+  - Including CSS - 19:53
+  - Color - 28:48
+  - Background color - 34:10
+  - Color system - 39:44
+  - Color palette - 54:40
+  - Selectors - 56:38
+  -- Pratice set 1 - 1:04:55
+  - Text - 1:17:26
+  - Units in CSS - 1:42:02
+  -- Pratice set 2 - 1:48:52
+Level 2 - 1:55:44
+  - Box model in CSS - 1:55:48
+  - Height - 2:01:26
+  - Width - 2:03:46
+  - Border - 2:06:09
+  - Padding - 2:16:12
+  - Margin - 2:21:36
+  -- Pratice set 3 - 2:24:49
+  - Display property - 2:38:18
+  - Visibility property - 2:47:40
+  - Alpha (opacity) - 2:48:31
+  -- Pratice set 4 - 2:52:33
+Level 3 - 3:02:48
+  - Units in CSS - 3:02:55
+  - Percentage - 3:04:26
+  - em - 3:09:19
+  - rem - 3:13:17
+  - vh and vw - 3:14:57
+  - Position - 3:16:15
+     - static - 3:16:56
+     - relative - 3:21:00
+     - absolute - 3:22:45
+     - fixed - 3:26:26
+     - sticky - 3:29:40
+  - z-index - 3:30:49
+  - Background image - 3:36:50
+  - Background size - 3:40:25
+  - Background repeat - 3:42:54
+  -- Pratice set 5 - 3:43:46
+Level 4 - 3:50:33
+  - Flexbox - 3:50:48
+  - The Flex model - 3:53:56
+  - Flexbox direction - 3:58:17
+  - Flex properties for Flex Container [justify-content, flex-wrap, align-items, align-content] - 4:03:53
+  - Flex properties for Flex Item [align-self, flex-grow, flex-shrink] - 4:10:59
+  -- Pratice set 6 - 4:18:36
+  - Media queries - 4:34:55
+  -- Pratice set 7 - 4:43:16
+Level 5 - 4:47:32
+  - Transition - 4:48:26
+  - Transform - 4:59:04
+     - rotate - 4:59:26
+     - scale - 5:05:17
+     - translate - 5:09:00
+     - skew - 5:12:34
+  - Animation - 5:13:37
+  - Animation shorthand - 5:25:15
+  - Animation % - 5:28:00
+  -- Practice Set 8 - 5:29:31
+Project Amazon Clone - 5:38:33
